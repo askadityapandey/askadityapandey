@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aditya Pandey</h1>
 <h3 align="center">A contributor in solving world's problems</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" >
-- 🌱 I’m currently learning **Javascript, Next JS and MERN Stack**
+- 🌱 A Javascript Devloper
 
-- 💬 Ask me about **javascript, react**
+- 💬 Building useful open source projects
 
 - 📫 How to reach me **askadityapandey@gmail.com**
 
