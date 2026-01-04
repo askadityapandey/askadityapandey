@@ -1,4 +1,4 @@
-## 🧪 PEXT Lab
+## I write content and research too ;)
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
